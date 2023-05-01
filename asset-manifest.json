@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/VkMiniApps/static/css/main.a47482e0.css",
+    "main.js": "/VkMiniApps/static/js/main.bac31ad9.js",
+    "static/media/persik.png": "/VkMiniApps/static/media/persik.ae9f00727841e011ac15.png",
+    "index.html": "/VkMiniApps/index.html",
+    "main.a47482e0.css.map": "/VkMiniApps/static/css/main.a47482e0.css.map",
+    "main.bac31ad9.js.map": "/VkMiniApps/static/js/main.bac31ad9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a47482e0.css",
+    "static/js/main.bac31ad9.js"
+  ]
+}
